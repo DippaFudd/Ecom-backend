@@ -58,7 +58,7 @@ This project is a Back-End E-commerce Application designed to manage product dat
 
 5. Seed the database with sample data:
    ```bash
-   npm run seeds
+   node seeds/index.js or npm run seed
    ```
 
 6. Start the server:

@@ -69,7 +69,9 @@ This project is a Back-End E-commerce Application designed to manage product dat
 7. Test the API endpoints for Categories, Products, and Tags using Insomnia or Postman.
 
 ## Screenshots
-![Image Alt]()
+![Image Alt](https://github.com/DippaFudd/Ecom-backend/blob/20b29e40742d94c9716dff53e7c1004c5a215538/2025-03-25.png)
+![Image Alt](https://github.com/DippaFudd/Ecom-backend/blob/20b29e40742d94c9716dff53e7c1004c5a215538/2025-03-25%20(2).png)
+![Image Alt](https://github.com/DippaFudd/Ecom-backend/blob/20b29e40742d94c9716dff53e7c1004c5a215538/2025-03-25%20(1).png)
 Video Link:
 
 
